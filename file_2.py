@@ -3,3 +3,4 @@ def ask_question(question):
     return answer
 name = ask_question("What is your name?")
 print("Hello, " , name)
+print("Are you fine, ", name)
